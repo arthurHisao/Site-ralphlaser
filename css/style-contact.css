@@ -423,6 +423,7 @@ a{
 
 	/*inicio da pagina*/
 	.bg-contact {
+		background-attachment: local;
 		padding: 10px;
 		padding-top: 150px;
 		padding-bottom: 60px;
